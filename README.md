@@ -1,2 +1,6 @@
-# current-cwl
-A script to dump out enemy TH distributions for the current CWL
+# clash-of-clans
+A collection of scripts to get data from Supercell's Clash of Clans' API server.
+
+## Requirements
+
+Need python 3 to run
